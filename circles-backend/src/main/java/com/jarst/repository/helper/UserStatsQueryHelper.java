@@ -2,9 +2,9 @@ package com.jarst.repository.helper;
 
 import com.jarst.domain.User;
 import com.jarst.dto.UserStats;
-import com.myapp.domain.QMicropost;
-import com.myapp.domain.QRelationship;
-import com.myapp.domain.QUser;
+import com.jarst.domain.QMicropost;
+import com.jarst.domain.QRelationship;
+import com.jarst.domain.QUser;
 import com.querydsl.core.types.ConstructorExpression;
 import com.querydsl.core.types.Projections;
 import com.querydsl.jpa.JPAExpressions;

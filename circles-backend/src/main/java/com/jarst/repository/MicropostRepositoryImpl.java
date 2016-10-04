@@ -5,7 +5,7 @@ import com.jarst.domain.Relationship;
 import com.jarst.domain.User;
 import com.jarst.dto.PostDTO;
 import com.jarst.dto.UserStats;
-import com.myapp.domain.*;
+import com.jarst.domain.*;
 import com.jarst.dto.PageParams;
 import com.jarst.repository.helper.UserStatsQueryHelper;
 import com.querydsl.core.types.ConstructorExpression;
